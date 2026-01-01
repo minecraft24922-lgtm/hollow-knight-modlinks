@@ -1,0 +1,16 @@
+<ModLinks>
+  <Manifest>
+    <Name>HKModHealthByDofy</Name>
+    <DisplayName>HK Mod Health (Dofy)</DisplayName>
+    <Description>Mod que modifica la vida del Hollow Knight (Nexus Mods).</Description>
+    <Version>1.0.0.0</Version>
+
+    <Link SHA256="">
+      <![CDATA[ https://drive.google.com/uc?export=download&id=1F7ABv1N0gxvYV9yVKHLYov0LdwRNs74n ]]>
+    </Link>
+
+    <Authors>
+      <Author>Dofy</Author>
+    </Authors>
+  </Manifest>
+</ModLinks>
